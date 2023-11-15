@@ -1,1 +1,2 @@
 # IPL-Dashboard-using-PowerBI
+The IPL (Indian Premier League) Dashboard using Power BI provides a dynamic and visually engaging platform to explore and analyze cricket-related data. Through interactive charts, graphs, and tables, users can delve into player statistics, team performance, match outcomes, and trends across different IPL seasons. The dashboard delivers comprehensive insights, making it an invaluable tool for cricket enthusiasts, analysts, and fans to follow the excitement and performance metrics of their favorite teams and players in the IPL.
